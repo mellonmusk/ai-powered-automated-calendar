@@ -1,5 +1,7 @@
-# 11-team-ellu-be
-KTB 판교 2기 11조 백엔드 리포지토리
+This repository contains the backend implementation for an AI-powered automated calendar service designed to maximize team productivity through collaboration automation and personalized scheduling.
+
+Built with Spring Boot, Kafka, WebSocket, and SSE, Looper enables real-time schedule sharing for seamless coordination, AI-driven task generation from meeting transcripts using project-specific wiki data, and personalized chatbot support for managing individual plans such as workouts or study sessions.
+
  
 ## 🚀 기술 스택
 
